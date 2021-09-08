@@ -5,6 +5,5 @@ spring:
     config:
       server:
         git:
-          uri: file:///Users/dboutin/IdeaProjects/packt-cloud-native-java/config
-  application:
-    name: configsrv
+          uri: file://Users/dboutin/IdeaProjects/packt-cloud-native-java/config
+
